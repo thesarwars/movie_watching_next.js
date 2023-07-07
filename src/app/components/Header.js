@@ -10,7 +10,7 @@ export const Header = () => {
         <header className={styles.main_header}>
             <div className={styles.navbar_brand}>
                 <Link href='/'>
-                    <Image src="/logo.png" alt='Logo' width={150} height={40}></Image>
+                    <Image src="/tahaflix_logo.png" alt='Logo' width={150} height={40}></Image>
                 </Link>
             </div>
             <Nav/>
