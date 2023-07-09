@@ -20,4 +20,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Screenshot
 
-![HomePage](public\tahaflix-ss.png)
+![HomePage](public/tahaflix-ss.png)
